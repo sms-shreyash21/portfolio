@@ -1,7 +1,7 @@
 import './Projects.css';
-import EcoLogo from './eco-home-logo.png';
-import SLR from './slr.png';
-import OPP from './opp.png';
+import EcoLogo from './images/eco-home-logo.png';
+import SLR from './images/slr.png';
+import OPP from './images/opp.png';
 function Projects() {
 
 

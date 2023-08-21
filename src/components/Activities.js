@@ -1,11 +1,11 @@
 import './Activities.css';
-import Genius from './genius.JPG';
-import Sympo from './sympo.jpg';
-import Vipassana from './vipassana.jpg';
-import amIeng from './amieng.jpg';
-import EVS from './EVS.jpg';
-import AISA from './aisa.jpg';
-import Freshers from './freshers.JPG';
+import Genius from './images/genius.JPG';
+import Sympo from './images/sympo.jpg';
+import Vipassana from './images/vipassana.jpg';
+import amIeng from './images/amieng.jpg';
+import EVS from './images/EVS.jpg';
+import AISA from './images/aisa.jpg';
+import Freshers from './images/freshers.JPG';
 function Activities (){
     
     return (

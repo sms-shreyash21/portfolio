@@ -3,7 +3,7 @@
 
 import { useEffect, useState } from 'react';
 import './Home.css';
-import MyImage from './shre.jpg';
+import MyImage from './images/shre.jpg';
 import {  FaLinkedin,FaGithub,FaTwitter } from 'react-icons/fa';
 
 function Home  () {
