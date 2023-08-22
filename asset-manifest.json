@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9e17ce78.css",
+    "main.css": "/portfolio/static/css/main.791485f8.css",
     "main.js": "/portfolio/static/js/main.b7340a1e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/EVS.jpg": "/portfolio/static/media/EVS.d21edb1bd2742fcbce0f.jpg",
@@ -17,12 +17,12 @@
     "static/media/aisa.jpg": "/portfolio/static/media/aisa.beebe3e73db030b655dd.jpg",
     "static/media/eco-home-logo.png": "/portfolio/static/media/eco-home-logo.63d744f5e79b685f2a0c.png",
     "index.html": "/portfolio/index.html",
-    "main.9e17ce78.css.map": "/portfolio/static/css/main.9e17ce78.css.map",
+    "main.791485f8.css.map": "/portfolio/static/css/main.791485f8.css.map",
     "main.b7340a1e.js.map": "/portfolio/static/js/main.b7340a1e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e17ce78.css",
+    "static/css/main.791485f8.css",
     "static/js/main.b7340a1e.js"
   ]
 }
