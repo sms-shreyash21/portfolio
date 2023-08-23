@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.07c1d6d1.css",
-    "main.js": "/portfolio/static/js/main.debacab2.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/EVS.jpg": "/portfolio/static/media/EVS.d21edb1bd2742fcbce0f.jpg",
-    "static/media/amieng.jpg": "/portfolio/static/media/amieng.29f2a6f069b9014d9d1f.jpg",
-    "static/media/freshers.JPG": "/portfolio/static/media/freshers.5084879e157817e19a95.JPG",
-    "static/media/genius.JPG": "/portfolio/static/media/genius.96cb22fe8f36c2ce9bfc.JPG",
-    "static/media/shre.jpg": "/portfolio/static/media/shre.f021a83e9977ea53ede1.jpg",
-    "static/media/slr.png": "/portfolio/static/media/slr.5dfaab853f953472a4d5.png",
-    "static/media/sympo.jpg": "/portfolio/static/media/sympo.8d0544fd7cabf09efb00.jpg",
-    "static/media/vipassana.jpg": "/portfolio/static/media/vipassana.949df65ed59ba5601f62.jpg",
-    "static/media/myimage1.jpeg": "/portfolio/static/media/myimage1.016ddf9c9e65ee3f501d.jpeg",
-    "static/media/opp.png": "/portfolio/static/media/opp.b495c34631b2befd6c0a.png",
-    "static/media/aisa.jpg": "/portfolio/static/media/aisa.beebe3e73db030b655dd.jpg",
-    "static/media/eco-home-logo.png": "/portfolio/static/media/eco-home-logo.63d744f5e79b685f2a0c.png",
-    "index.html": "/portfolio/index.html",
-    "main.07c1d6d1.css.map": "/portfolio/static/css/main.07c1d6d1.css.map",
-    "main.debacab2.js.map": "/portfolio/static/js/main.debacab2.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.24088671.css",
+    "main.js": "/static/js/main.6276ed73.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/EVS.jpg": "/static/media/EVS.d21edb1bd2742fcbce0f.jpg",
+    "static/media/amieng.jpg": "/static/media/amieng.29f2a6f069b9014d9d1f.jpg",
+    "static/media/freshers.JPG": "/static/media/freshers.5084879e157817e19a95.JPG",
+    "static/media/genius.JPG": "/static/media/genius.96cb22fe8f36c2ce9bfc.JPG",
+    "static/media/shre.jpg": "/static/media/shre.f021a83e9977ea53ede1.jpg",
+    "static/media/slr.png": "/static/media/slr.5dfaab853f953472a4d5.png",
+    "static/media/sympo.jpg": "/static/media/sympo.8d0544fd7cabf09efb00.jpg",
+    "static/media/vipassana.jpg": "/static/media/vipassana.949df65ed59ba5601f62.jpg",
+    "static/media/myimage1.jpeg": "/static/media/myimage1.016ddf9c9e65ee3f501d.jpeg",
+    "static/media/opp.png": "/static/media/opp.b495c34631b2befd6c0a.png",
+    "static/media/aisa.jpg": "/static/media/aisa.beebe3e73db030b655dd.jpg",
+    "static/media/eco-home-logo.png": "/static/media/eco-home-logo.63d744f5e79b685f2a0c.png",
+    "index.html": "/index.html",
+    "main.24088671.css.map": "/static/css/main.24088671.css.map",
+    "main.6276ed73.js.map": "/static/js/main.6276ed73.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07c1d6d1.css",
-    "static/js/main.debacab2.js"
+    "static/css/main.24088671.css",
+    "static/js/main.6276ed73.js"
   ]
 }
