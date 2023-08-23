@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.05f63385.css",
-    "main.js": "/portfolio/static/js/main.b7340a1e.js",
+    "main.css": "/portfolio/static/css/main.f7a99949.css",
+    "main.js": "/portfolio/static/js/main.debacab2.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/EVS.jpg": "/portfolio/static/media/EVS.d21edb1bd2742fcbce0f.jpg",
     "static/media/amieng.jpg": "/portfolio/static/media/amieng.29f2a6f069b9014d9d1f.jpg",
     "static/media/freshers.JPG": "/portfolio/static/media/freshers.5084879e157817e19a95.JPG",
     "static/media/genius.JPG": "/portfolio/static/media/genius.96cb22fe8f36c2ce9bfc.JPG",
-    "static/media/space.jpg": "/portfolio/static/media/space.bf52305fce5ecda5ba61.jpg",
     "static/media/shre.jpg": "/portfolio/static/media/shre.f021a83e9977ea53ede1.jpg",
     "static/media/slr.png": "/portfolio/static/media/slr.5dfaab853f953472a4d5.png",
     "static/media/sympo.jpg": "/portfolio/static/media/sympo.8d0544fd7cabf09efb00.jpg",
@@ -17,12 +16,12 @@
     "static/media/aisa.jpg": "/portfolio/static/media/aisa.beebe3e73db030b655dd.jpg",
     "static/media/eco-home-logo.png": "/portfolio/static/media/eco-home-logo.63d744f5e79b685f2a0c.png",
     "index.html": "/portfolio/index.html",
-    "main.05f63385.css.map": "/portfolio/static/css/main.05f63385.css.map",
-    "main.b7340a1e.js.map": "/portfolio/static/js/main.b7340a1e.js.map",
+    "main.f7a99949.css.map": "/portfolio/static/css/main.f7a99949.css.map",
+    "main.debacab2.js.map": "/portfolio/static/js/main.debacab2.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05f63385.css",
-    "static/js/main.b7340a1e.js"
+    "static/css/main.f7a99949.css",
+    "static/js/main.debacab2.js"
   ]
 }
