@@ -19,7 +19,7 @@
 }
 .cont-main-title{
     font-family: 'Roboto Mono', monospace;
-    
+    color:#4db5ff;
     /* width: 80%; */
     margin: auto;
     padding: 20px;
@@ -33,17 +33,17 @@ input,textarea{
     margin: 10px;
     width: 90%;
     background: transparent;
-    color: #ffffff;
-    border: 2px solid #ffffff;
+    color:#4db5ff;
+    border: 2px solid #4db5ff;
     padding: 5px;
     border-radius: 5px;
 }
 .cont{
-    color: #ffffff;
+    color:#4db5ff;
 }
 .bu{
     width: 50%;
-    border: 2px solid #ffffff;
+    border: 2px solid #4db5ff;
     padding: 15px;
     font-size: larger;
     border-radius: 10px;
@@ -51,6 +51,7 @@ input,textarea{
 }
 .bu:hover{
     background-color: #4db5ff;
+    color: #111;
 }
 .icons1{
     display: flex;

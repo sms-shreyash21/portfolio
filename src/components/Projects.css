@@ -3,10 +3,16 @@
     display: flex;
     /* grid-template-columns: repeat(2,auto); */
     justify-content: space-between;
+    
+
+}
+#Projects{
+    padding-top: 100px;
+
 }
 .proj-main-title{
     font-family: 'Roboto Mono', monospace;
-    color: #ffffff;
+    color:#4db5ff;
     width: 80%;
     margin: auto;
     padding: 20px;
@@ -47,26 +53,29 @@
     border-radius: 20px;
     margin-right: 20px;
 }
-.my-projects:hover{
+/* .my-projects:hover{
     color: black;
     background-color: white;
 
-}
-.butn{
-    padding: 20px;
-    margin-top: 30px;
+} */
+.bu1{
+    width: 50%;
+    border: 2px solid #4db5ff;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: larger;
     border-radius: 10px;
-    font-size: 20px;
-    font-weight: bolder;
-    background: green;
-    color: #ffffff;
-    /* border-color: #4db5ff; */
-    border: #ffffff;
     cursor: pointer;
-    /* border: 2px solid #4db5ff; */
+    color: #4db5ff;
+    background-color: rgb(34, 34, 34);
+}
+.bu1:hover{
+    background-color: #4db5ff;
+    color: #111;
 }
 .name{
     font-family: 'Roboto Mono', monospace;
+   
     
 }
 

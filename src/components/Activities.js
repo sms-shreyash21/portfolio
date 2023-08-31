@@ -83,7 +83,7 @@ function Activities (){
                     
                     <div className='my-activities'>
                         {/* <h1 className='about-me'>About Me .....</h1>  */}
-                        In January 2023, I embarked on a transformative journey by participating in a 10-day Vipassana meditation camp organized by <span style={{fontSize:'20px',color:'blue',cursor:'pointer'}} onClick={() => window.open('https://www.dhamma.org/', '_blank')}>dhamma.org</span>. This immersive experience offered profound tranquility and personal growth. Engaging in the practice of Vipassana meditation, amidst serene surroundings, brought about a deep sense of peace and left an indelible positive impact on me.                    
+                        In January 2023, I embarked on a transformative journey by participating in a 10-day Vipassana meditation camp organized by <span style={{fontSize:'20px',color:'#4db5ff',cursor:'pointer'}} onClick={() => window.open('https://www.dhamma.org/', '_blank')}>dhamma.org</span>. This immersive experience offered profound tranquility and personal growth. Engaging in the practice of Vipassana meditation, amidst serene surroundings, brought about a deep sense of peace and left an indelible positive impact on me.                    
                         </div>
                         <div className="my-img3">
                         <img className="my-image3" style={{pointerEvents: 'none'}} src={Vipassana} alt='Logo'></img>

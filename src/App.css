@@ -1,14 +1,23 @@
 .App {
   /* text-align: center; */
-  background-image: url('./components/images/background.jpg');
+    /* background-image: url('./components/images/space.jpg'); */
+    background-color: rgb(34, 34, 34);
     background-size: cover; 
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat; 
+    
+    max-width: 1600px;
     width: 100%;
     margin-bottom: -15px;
 }
-
+:root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(34, 34, 34);
+  
+}
 *{
   /* margin: 0;
   padding: 0; */

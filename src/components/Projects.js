@@ -17,7 +17,7 @@ function Projects() {
                     <div className='my-projects'>
                         {/* <h1 className='about-me'>About Me .....</h1>  */}
                         The ECO-HOME is a specialized web application developed to aid users in evaluating the practicality of installing a solar panel system. Through the utilization of location-specific weather data and solar radiation information, the application conducts an in-depth analysis to estimate crucial factors such as energy output, system size, and the number of panels required. By taking into account the user's specific roof area, electricity requirements and weather at given location, the application generates a comprehensive report that provides valuable insights into the feasibility of solar panel installation and basic information required for Rainwater Harvesting system installation. <br/>
-                        <button className='butn' onClick={() => window.open('https://sms-shreyash21.github.io/ecohome/', '_blank')}>Visit Website</button>
+                        <button className='bu1' onClick={() => window.open('https://sms-shreyash21.github.io/ecohome/', '_blank')}>Visit Website</button>
 
                     </div>
                 </div>

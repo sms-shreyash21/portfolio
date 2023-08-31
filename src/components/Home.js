@@ -9,7 +9,7 @@ import {  FaLinkedin,FaGithub,FaTwitter } from 'react-icons/fa';
 function Home  () {
         const [loopNum,setLoopNum] = useState(0);
         const [isDeleting,setIsDeleting] = useState(false);
-        const toRotate = ["Java Programming","Machine Learning","Python Programming","React Web Development","Artificial Intelligence","Space Science"];
+        const toRotate = ["Java Programming","Machine Learning","Python Programming","React Web Development","Artificial Intelligence","Space Science","Problem Solving","Mathematics"];
         const [text,setText] = useState('');
         const [delta,setDelta] = useState(300 - Math.random()*100);
         const period = 500;
@@ -47,8 +47,8 @@ function Home  () {
                 
                     <div className="my-name">
                         <h2 className="tagline">Welcome to my Portfolio! <br/>
-                        Hi! I'm <span className='name'>Shreyash Shinde </span>
-                        A <h2><span className="wrap"> "{text}"</span></h2>  Enthusiast.</h2>
+                        Hi! I'm <br/> <span className='name'>Shreyash Shinde </span> <br/>
+                        A <br/> <span className="wrap"> "{text}"</span> <br/> Enthusiast.</h2>
                         <div className='icons'>
                             <FaLinkedin size={50} className='my-icons'  onClick={() => window.open('https://www.linkedin.com/in/shreyashshinde', '_blank')} />
                             <FaGithub size={50} className='my-icons'  onClick={() => window.open('https://github.com/sms-shreyash21', '_blank')} />
